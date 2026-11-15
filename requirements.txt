@@ -1,1 +1,10 @@
-pytorch
+--extra-index-url https://pytorch.org
+torch
+torchvision
+click
+numpy
+Pillow
+tqdm
+opencv-python
+lmdb
+
