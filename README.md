@@ -2,6 +2,6 @@
 
 ## Package Manager
 
-We use `uv` for package management
+We use **uv** for package management
 
 - run `uv sync` to update the project's environment
